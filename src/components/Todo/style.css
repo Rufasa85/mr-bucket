@@ -1,0 +1,27 @@
+.Todo {
+    border:1px dotted black;
+    font-family: "Papyrus";
+    margin:10px;
+}
+
+.Todo p {
+    font-size: 16px;
+  
+}
+
+.high {
+    background-color: red;
+}
+
+.med {
+    background-color: yellow;
+}
+
+.low {
+    background-color: green;
+}
+
+.complete {
+    opacity: 0.5;
+    text-decoration: line-through;
+}
